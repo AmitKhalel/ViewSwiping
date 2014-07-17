@@ -105,6 +105,8 @@ public class MainActivity extends FragmentActivity {
 		//	args.putInt(DummySectionFragment.ARG_SECTION_NUMBER, position + 1);
 		//	fragment.setArguments(args);
 			return fragments.get(position);
+			
+			
 		}
 
 		@Override
